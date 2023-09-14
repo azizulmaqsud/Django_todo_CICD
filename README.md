@@ -1,7 +1,5 @@
 # Django todo CICD
 ## Build a simple todo app with django
-
-![todo App](https://raw.githubusercontent.com/azizulmaqsud/Django_todo_CICD/develop/staticfiles/todoApp.png)
 ### Steps
 run the following command inside your git enabled terminal
 ```bash
